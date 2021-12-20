@@ -1,3 +1,2 @@
 # Hi there!
-
-My name is Jen, and I am a student developer located in Madison, Wisconsin. I am currently an intern at Singlewire Software, and I have worked for UW Madison's Division of Information Technology. Through these, I have development experience in ReactJS, NodeJS/ExpressJS, and Clojure. I'm also a student at Madison College where I'm enrolled in an associates program studying software development. My coursework is in full-stack development using PHP and Java on the back-end, JavaScript (vanilla & AngularJS) on the front-end. I'm especially interested in full-stack work, as well as accessibility/ux!
+My name is Jen, and I am a junior (fullstack) software engineer based in Madison, Wisconsin. Currently at work I'm using React, Clojure, and Postgres. I also have an educational backround in Java. I find full-stack work particularly interesting, as well as accessibility and user experience. 
